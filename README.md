@@ -45,9 +45,6 @@ I'm a Data Scientist & Data Analyst specialized in Python and its ecosystem (Pan
   <a href="https://spark.apache.org/" target="_blank">
     <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
   </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-  </a>
   <a href="https://plotly.com/" target="_blank">
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
   </a>
@@ -93,9 +90,6 @@ I'm a Data Scientist & Data Analyst specialized in Python and its ecosystem (Pan
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/>
   </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
-  </a>
 </p>
 
 ## Projects
@@ -124,37 +118,6 @@ I'm a Data Scientist & Data Analyst specialized in Python and its ecosystem (Pan
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolascarrero&repo=cafe-data-cleaning&theme=tokyonight" />
 </a>
 
-## Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px">
-
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Nicolás's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicolascarrero&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
-    </a>
-    <br/>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolascarrero&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nicolascarrero" height="192px"/>
-    <br/>
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <a href="https://github.com/nicolascarrero">
-    <img alt="Nicolás's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nicolascarrero&custom_title=Nicolás's%20Contribution%20Graph&theme=react-dark" />
-  </a>
-  <br/>
-</details>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=nicolascarrero&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ----
 
 <p align="center">
@@ -162,6 +125,4 @@ I'm a Data Scientist & Data Analyst specialized in Python and its ecosystem (Pan
 </p>
 
 -----
-Credits: [Nicolás Carrero](https://github.com/nicolascarrero)
 
-Last Edited on: 08/07/2026
