@@ -6,9 +6,9 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://nicolascarrero.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="My Website"/>
+<p align ="center">
+  <a  href="https://nicolascarrero.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>
   <a href="mailto:nicoacarrero@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
