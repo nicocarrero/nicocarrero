@@ -21,7 +21,14 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
 <p>
-I'm a Data Scientist & Data Analyst specialized in Python and its ecosystem (Pandas, NumPy, Scikit-Learn, Keras, Spark, OpenCV, Plotly, Power BI). I build analytical and machine learning models from raw data that drive real business decisions — from NLP classification and MLOps pipelines to data cleaning, big data processing and dashboard storytelling. Currently finishing my Bachelor's in Data Science at UGR.
+I'm a Data Scientist passionate about turning data into solutions that solve real-world problems. I enjoy working with an end-to-end approach, from data collection and preparation to building Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI solutions.
+
+🎓 Higher Technician in Data Science & Artificial Intelligence.
+📚 Currently pursuing a Bachelor's degree in Data Science.
+🌱 Continuously learning and exploring new technologies.
+
+✔ Ask me about anything. I'm always happy to help.
+📫 Reach out to me at: nicoacarrero@gmail.com
 </p>
 
 ## Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
