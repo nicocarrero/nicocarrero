@@ -26,7 +26,7 @@ I'm a <b>Data Scientist</b> passionate about turning data into solutions that so
 
 - 🎓 Higher Technician in Data Science & Artificial Intelligence.<br>
 - 📚 Currently pursuing a Bachelor's degree in Data Science.<br>
-- 🌱 Continuously learning and exploring new technologies.<br><br>
+- 🌱 Continuously learning and exploring new technologies.<br>
 
 ✔ <b>Ask me about anything. I'm always happy to help.</b><br>
 📫 <b>Reach out to me at:</b> <a href="mailto:nicoacarrero@gmail.com">nicoacarrero@gmail.com</a>
