@@ -21,14 +21,16 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
 <p>
-I'm a Data Scientist passionate about turning data into solutions that solve real-world problems. I enjoy working with an end-to-end approach, from data collection and preparation to building Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI solutions.
 
-🎓 Higher Technician in Data Science & Artificial Intelligence.
-📚 Currently pursuing a Bachelor's degree in Data Science.
-🌱 Continuously learning and exploring new technologies.
+I'm a <b>Data Scientist</b> passionate about turning data into solutions that solve real-world problems. I enjoy working with an <b>end-to-end</b> approach, from data collection and preparation to building Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI solutions.
 
-✔ Ask me about anything. I'm always happy to help.
-📫 Reach out to me at: nicoacarrero@gmail.com
+- 🎓 Higher Technician in Data Science & Artificial Intelligence.<br>
+- 📚 Currently pursuing a Bachelor's degree in Data Science.<br>
+- 🌱 Continuously learning and exploring new technologies.<br><br>
+
+✔ <b>Ask me about anything. I'm always happy to help.</b><br>
+📫 <b>Reach out to me at:</b> <a href="mailto:nicoacarrero@gmail.com">nicoacarrero@gmail.com</a>
+
 </p>
 
 ## Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
