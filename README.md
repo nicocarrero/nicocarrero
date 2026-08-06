@@ -1,218 +1,148 @@
+## Hi, I’m Nicolás Carrero <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
+</p>
+
+<p align ="center">
+  <a  href="https://ifeanyi-nneji.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
+  </a>	
+  <a href="mailto:nicoacarrero@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
+   <a href="https://www.linkedin.com/in/nicolas-carrero" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>  
+  </p>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<p >I specialize in the use of Python Programming Language and its' various frameworks and libraries such as Numpy, Pandas, SciKit Learn, OpenCV, TensorFlow, Pytorch etc to create analytical and machine models from data which can be used for data visualization and optimisation in business's and other fields of interest.
+</p>
+
+
+
+## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=101014&height=180&section=header&text=Nicolás+Carrero&fontSize=55&fontColor=ff4d5a&animation=fadeIn&fontAlignY=35" alt="header" />
-</p>
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" alt="wave" />
-  Hola, soy Nicolás Carrero
-</h1>
-
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=800&color=FF4D5A&center=true&vCenter=true&multiline=false&width=520&height=30&lines=Data+Scientist+%7C+Data+Analyst;Especialista+en+BI+%26+Machine+Learning;De+datos+crudos+a+decisiones+que+se+pueden+defender" alt="Typing SVG" />
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
-</h3>
-
-<p align="center">
-  <a href="mailto:nicoacarrero@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Nicolás,">
-    <img src="https://img.shields.io/badge/nicoacarrero@gmail.com-FF4D5A?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  
+  <a href="" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/nicolás-carrero" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-101014?style=for-the-badge&logo=linkedin&logoColor=ff4d5a" alt="linkedin"/>
+  
+   <a href="" target="_blank">
+    <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   </a>
-  <a href="tel:+542664654225">
-    <img src="https://img.shields.io/badge/Merlo,_San_Luis_AR-101014?style=for-the-badge&logo=googlemaps&logoColor=f2f2f5" alt="location"/>
+
+   <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/disponible-1a1a23?style=for-the-badge&logo=statuspage&logoColor=ff4d5a" alt="status"/>
+
+   <a href="https://keras.io/" target="_blank">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  </a>
+
+   <a href="https://numpy.org/" target="_blank">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+
+   <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
+
+   <a href="https://plotly.com/" target="_blank">
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  </a>
+
+   <a href="https://streamlit.io/" target="_blank">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  </a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+
+   <a href="https://opencv.org/" target="_blank">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+  </a>
+   <a href="https://www.selenium.dev/" target="_blank">
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  </a>
+   <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://www.jetbrains.com/" target="_blank">
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
+  </a>
 </p>
 
----
+## Projects
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM1ZWU5MzAtNmU5YS00YzE0LWIwYjItMWI5ZDJkNDU4ZjI1JmVwPXYxX2ludGVybmFsX2dpZl9ieUlkJmN0PXM/KFNvZmlXbFm1G2Q2V2/giphy.gif" width="32" alt="about"/> Sobre mí
+<a href="https://github.com/Nneji123/Website-Blocker">
 
-```yaml
-nombre: Nicolás Carrero
-rol: Data Scientist | Data Analyst
-ubicación: Merlo, San Luis, Argentina 🇦🇷
-idiomas: [español (nativo), inglés (B2)]
-formación:
-  actual: Lic. en Ciencia de Datos — UGR (egreso 2027)
-  graduado: Tec. Sup. en Ciencia de Datos e IA — ISTEA (2026)
-enfoque: mirada analítica + resultados medibles
-```
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-Profesional en Ciencia de Datos con enfoque en **resultados que generan valor**: desarrollo modelos de machine learning, analizo información y comunico hallazgos que un equipo de negocio puede defender. Del dato crudo al insight accionable.
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
 
-### 🔹 Lo que hago hoy
+</a>  
 
-- 🚀 **Nitek** · Desarrollador de soluciones digitales y optimización de datos comerciales
-- 🧠 **WikiFlix / MakingLab** (Chile, remoto) · Curé +1.000 documentos empresariales para entrenar un modelo de IA generativa
-- 📊 Freelance desde **ZetaWebs** (2020–2023) · soluciones web para el sector turístico regional
+<a href="https://github.com/Nneji123/Alien-Shooter">
 
-### 🔹 Ahora mismo estoy…
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-- 🎓 Finalizando la Licenciatura en Ciencia de Datos (UGR)
-- 📚 Profundizando en **Deep Learning**, **NLP & LLMs** y **Visión por computadora**
-- 🌱 Aprendiendo inglés hacia C1
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
 
----
+</a> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" alt="stack"/> Tech Stack
 
-### Lenguajes & ML
+## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-101014?style=for-the-badge&logo=python&logoColor=ff4d5a" />
-  <img src="https://img.shields.io/badge/pandas-101014?style=for-the-badge&logo=pandas&logoColor=ff8b94" />
-  <img src="https://img.shields.io/badge/NumPy-101014?style=for-the-badge&logo=numpy&logoColor=ff8b94" />
-  <img src="https://img.shields.io/badge/scikit--learn-101014?style=for-the-badge&logo=scikit-learn&logoColor=f2f2f5" />
-  <img src="https://img.shields.io/badge/Keras-101014?style=for-the-badge&logo=keras&logoColor=ff4d5a" />
-  <img src="https://img.shields.io/badge/Apache_Spark-101014?style=for-the-badge&logo=apachespark&logoColor=ff4d5a" />
-  <img src="https://img.shields.io/badge/OpenCV-101014?style=for-the-badge&logo=opencv&logoColor=f2f2f5" />
-  <img src="https://img.shields.io/badge/YOLO-101014?style=for-the-badge&logo=robotframework&logoColor=ff8b94" />
-</p>
 
-### BI & Visualización
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-101014?style=for-the-badge&logo=powerbi&logoColor=ff4d5a" />
-  <img src="https://img.shields.io/badge/Looker_Studio-101014?style=for-the-badge&logo=googledatastudio&logoColor=f2f2f5" />
-  <img src="https://img.shields.io/badge/DAX-101014?style=for-the-badge&logo=microsoft&logoColor=ff8b94" />
-  <img src="https://img.shields.io/badge/Plotly-101014?style=for-the-badge&logo=plotly&logoColor=ff4d5a" />
-  <img src="https://img.shields.io/badge/Matplotlib-101014?style=for-the-badge&logo=matplotlib&logoColor=f2f2f5" />
-  <img src="https://img.shields.io/badge/Seaborn-101014?style=for-the-badge&logo=seaborn&logoColor=ff8b94" />
-  <img src="https://img.shields.io/badge/Streamlit-101014?style=for-the-badge&logo=streamlit&logoColor=ff4d5a" />
-</p>
-
-### Datos, MLOps & Herramientas
-
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-101014?style=for-the-badge&logo=microsoftsqlserver&logoColor=ff4d5a" />
-  <img src="https://img.shields.io/badge/MySQL-101014?style=for-the-badge&logo=mysql&logoColor=f2f2f5" />
-  <img src="https://img.shields.io/badge/MongoDB-101014?style=for-the-badge&logo=mongodb&logoColor=ff8b94" />
-  <img src="https://img.shields.io/badge/Docker-101014?style=for-the-badge&logo=docker&logoColor=ff4d5a" />
-  <img src="https://img.shields.io/badge/MLflow-101014?style=for-the-badge&logo=mlflow&logoColor=f2f2f5" />
-  <img src="https://img.shields.io/badge/Git-101014?style=for-the-badge&logo=git&logoColor=ff8b94" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-101014?style=for-the-badge&logo=githubactions&logoColor=ff4d5a" />
-  <img src="https://img.shields.io/badge/Jupyter-101014?style=for-the-badge&logo=jupyter&logoColor=f2f2f5" />
-</p>
-
-### Áreas de especialización
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF4D5A?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP_%26_LLMs-FF4D5A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Visión_por_Computadora-FF4D5A?style=flat-square" />
-  <img src="https://img.shields.io/badge/MLOps-FF4D5A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Big_Data-FF4D5A?style=flat-square" />
-  <img src="https://img.shields.io/badge/IA_Generativa-FF4D5A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Storytelling_de_Datos-FF4D5A?style=flat-square" />
-  <img src="https://img.shields.io/badge/KPIs_%26_Dashboards-FF4D5A?style=flat-square" />
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" width="32" alt="projects"/> Proyectos destacados
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 NLP · ANSeS</h3>
-      <p>Clasificación de textos de consultas ciudadanas: del texto libre a categorías accionables (reclamo, consulta, sugerencia) con métricas de confianza por predicción.</p>
-      <p><code>Python</code> · <code>NLP</code> · <code>scikit-learn</code> · <code>pandas</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Proyecto MLOps</h3>
-      <p>Pipeline de machine learning de punta a punta: entrenamiento, versionado de modelos y datos, y despliegue reproducible.</p>
-      <p><code>MLflow</code> · <code>Docker</code> · <code>Git</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Spark · Big Data</h3>
-      <p>Procesamiento distribuido de grandes volúmenes con PySpark: limpieza, agregaciones y optimización de consultas en cluster.</p>
-      <p><code>PySpark</code> · <code>SQL</code> · <code>Big Data</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Joystick YOLO</h3>
-      <p>Detección de joystick en tiempo real con YOLO: visión por computadora aplicada a interfaces y control por gestos.</p>
-      <p><code>Python</code> · <code>YOLO</code> · <code>OpenCV</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔧 Machine Failure</h3>
-      <p>Modelo de clasificación para predecir fallas de máquinas: mantenimiento anticipado con balanceo de clases y evaluación rigurosa.</p>
-      <p><code>scikit-learn</code> · <code>pandas</code> · <code>Seaborn</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ Café · Data Cleaning</h3>
-      <p>Limpieza y normalización de un dataset de cafeterías: faltantes, duplicados, outliers y un EDA que sí se entiende.</p>
-      <p><code>pandas</code> · <code>NumPy</code> · <code>Matplotlib</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32" alt="stats"/> GitHub Stats
-
-<details open>
-  <summary><b>📊 Estadísticas del perfil</b></summary>
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ncarrero&show_icons=true&count_private=true&theme=radical&bg_color=101014&title_color=ff4d5a&icon_color=ff4d5a&text_color=f2f2f5&hide_border=true" height="192px" alt="stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncarrero&layout=compact&theme=radical&bg_color=101014&title_color=ff4d5a&text_color=f2f2f5&hide_border=true" height="192px" alt="langs"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+  <br/>
   </p>
 </details>
+
 
 <details>
-  <summary><b>⚡ Actividad reciente</b></summary>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ncarrero&theme=radical&background=101014&ring=ff4d5a&fire=ff4d5a&currStreakLabel=ff4d5a&hide_border=true" alt="streak" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ncarrero&theme=react-dark&bg_color=101014&color=f2f2f5&line=ff4d5a&point=ff8b94&hide_border=true" alt="activity" />
-  </p>
+   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
 </details>
 
-<details>
-  <summary><b>🏆 Trofeos de GitHub</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ncarrero&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="trophies" />
-  </p>
-</details>
+<br/>
 
----
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32" alt="contact"/> Hablemos
 
-Estoy buscando mi próxima oportunidad en **Data Science, Analítica de datos o Business Intelligence**. Si te interesa mi perfil o tenés un proyecto que analizar, escribime:
+
+----
 
 <p align="center">
-  <a href="mailto:nicoacarrero@gmail.com">
-    <img src="https://img.shields.io/badge/✉_nicoacarrero@gmail.com-FF4D5A?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nicolás-carrero">
-    <img src="https://img.shields.io/badge/LinkedIn_nicolás-carrero-1a1a23?style=for-the-badge&logo=linkedin&logoColor=ff4d5a" />
-  </a>
-  <a href="tel:+542664654225">
-    <img src="https://img.shields.io/badge/📞_+54_266_465--4225-1a1a23?style=for-the-badge&logoColor=f2f2f5" />
-  </a>
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ncarrero&label=Visitas+al+perfil&color=ff4d5a&style=for-the-badge" alt="visitors" />
-</p>
+-----
+Credits: [Nneji123](https://github.com/Nneji123)
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=101014&height=100&section=footer" alt="footer" />
-</p>
-
-<p align="center">
-  <sub>Hecho a mano · Datos con criterio · © 2025 Nicolás Carrero</sub>
-</p>
+Last Edited on: 4/30/2022
