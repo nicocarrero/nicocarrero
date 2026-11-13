@@ -1,8 +1,8 @@
-## Hi, I'm Nicolás Carrero <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hola, soy Nicolás Carrero <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=20&lines=Data+Scientist;Machine+Learning+%26+AI;Building+end-to-end+solutions;Turning+ideas+into+products" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=20&lines=Cient%C3%ADfico+de+Datos;Machine+Learning+%26+IA;Soluciones+de+punta+a+punta;De+la+idea+al+producto" />
   </a>
 </p>
 
@@ -18,22 +18,38 @@
   </a>
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
 
 <p>
 
-I'm a <b>Data Scientist</b> passionate about turning data into solutions that solve real-world problems. I enjoy working with an <b>end-to-end</b> approach, from data collection and preparation to building Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI solutions.
+Soy <b>Científico de Datos</b> y me apasiona convertir datos en soluciones a problemas reales. Disfruto trabajar <b>de punta a punta</b>, desde la obtención y preparación de los datos hasta la construcción de soluciones de Machine Learning, Deep Learning, NLP, Visión por Computadora e IA Generativa.
 
-- 🎓 Higher Technician in Data Science & Artificial Intelligence.<br>
-- 📚 Currently pursuing a Bachelor's degree in Data Science.<br>
-- 🌱 Continuously learning and exploring new technologies.<br>
+- 🎓 Técnico Superior en Ciencia de Datos e Inteligencia Artificial.<br>
+- 📚 Cursando actualmente la Licenciatura en Ciencia de Datos.<br>
+- 🌱 En aprendizaje continuo, explorando nuevas tecnologías.<br>
 
-✔ <b>Ask me about anything. I'm always happy to help.</b><br>
-📫 <b>Reach out to me at:</b> <a href="mailto:nicoacarrero@gmail.com">nicoacarrero@gmail.com</a>
+✔ <b>Abierto a oportunidades laborales, colaboraciones y consultas. Contactame y con gusto te respondo.</b><br>
+📫 <b>Contacto:</b> <a href="mailto:nicoacarrero@gmail.com">nicoacarrero@gmail.com</a>
 
 </p>
 
-## Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+<details>
+<summary>🇬🇧 English version</summary>
+
+### About me
+
+I'm a <b>Data Scientist</b> passionate about turning data into solutions that solve real-world problems. I enjoy working with an <b>end-to-end</b> approach, from data collection and preparation to building Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI solutions.
+
+- 🎓 Higher Technician in Data Science & Artificial Intelligence.
+- 📚 Currently pursuing a Bachelor's degree in Data Science.
+- 🌱 Continuously learning and exploring new technologies.
+
+✔ Ask me about anything. I'm always happy to help.
+📫 Reach out to me at: [nicoacarrero@gmail.com](mailto:nicoacarrero@gmail.com)
+
+</details>
+
+## Stack técnico <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -50,6 +66,9 @@ I'm a <b>Data Scientist</b> passionate about turning data into solutions that so
   </a>
   <a href="https://keras.io/" target="_blank">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
   </a>
   <a href="https://spark.apache.org/" target="_blank">
     <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
@@ -101,31 +120,43 @@ I'm a <b>Data Scientist</b> passionate about turning data into solutions that so
   </a>
 </p>
 
-## Projects
+## Proyectos
 
-<a href="https://github.com/nicolascarrero/nlp-anses">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolascarrero&repo=nlp-anses&theme=tokyonight" />
+<a href="https://github.com/nicocarrero/asistente-rag-anses">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicocarrero&repo=asistente-rag-anses&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/nicolascarrero/mlops-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolascarrero&repo=mlops-project&theme=tokyonight" />
+<a href="https://github.com/nicocarrero/mlops-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicocarrero&repo=mlops-project&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/nicolascarrero/spark-bigdata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolascarrero&repo=spark-bigdata&theme=tokyonight" />
+<a href="https://github.com/nicocarrero/spark-bigdata">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicocarrero&repo=spark-bigdata&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/nicolascarrero/joystick-yolo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolascarrero&repo=joystick-yolo&theme=tokyonight" />
+<a href="https://github.com/nicocarrero/joystick-yolo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicocarrero&repo=joystick-yolo&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/nicolascarrero/machine-failure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolascarrero&repo=machine-failure&theme=tokyonight" />
+<a href="https://github.com/nicocarrero/machine-failure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicocarrero&repo=machine-failure&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/nicolascarrero/cafe-data-cleaning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicolascarrero&repo=cafe-data-cleaning&theme=tokyonight" />
+<a href="https://github.com/nicocarrero/cafe-data-cleaning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicocarrero&repo=cafe-data-cleaning&theme=tokyonight" />
 </a>
+
+<!--
+Cuando estén publicados, descomentá y ajustá el nombre del repo:
+
+<a href="https://github.com/nicocarrero/NOMBRE-REPO-TORMENTAS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicocarrero&repo=NOMBRE-REPO-TORMENTAS&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/nicocarrero/NOMBRE-REPO-EMISIONES">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicocarrero&repo=NOMBRE-REPO-EMISIONES&theme=tokyonight" />
+</a>
+-->
 
 ----
 
@@ -134,4 +165,3 @@ I'm a <b>Data Scientist</b> passionate about turning data into solutions that so
 </p>
 
 -----
-
